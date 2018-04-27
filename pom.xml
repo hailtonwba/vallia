@@ -4,7 +4,7 @@
 	<artifactId>jrimum-vallia</artifactId>
 	<packaging>jar</packaging>
 	<name>Projeto Vallia</name>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<description>Projeto open source de componentes de software para o domínio de negócios do Brasil.
 </description>
 	<url>http://www.jrimum.org/vallia</url>
@@ -13,14 +13,14 @@
 		<url>http://www.wba.com.br/</url>
 	</organization>
 	<issueManagement>
-		<url>http://github.com/eduardowba/vallia/issues</url>
+		<url>http://github.com/hailtonwba/vallia/issues</url>
 		<system>GitHub</system>
 	</issueManagement>
 	<scm>
-		<connection>scm:git:git@github.com:eduardowba/vallia.git</connection>
-		<url>scm:git:git@github.com:eduardowba/vallia.git</url>
-		<developerConnection>scm:git:git@github.com:eduardowba/vallia.git</developerConnection>
-		<tag>v1.0.2</tag>
+		<connection>scm:git:git@github.com:hailtonwba/vallia.git</connection>
+		<url>scm:git:git@github.com:hailtonwba/vallia.git</url>
+		<developerConnection>scm:git:git@github.com:hailtonwba/vallia.git</developerConnection>
+		<tag>v1.0.3</tag>
 	</scm>
 	<distributionManagement>
 		<repository>
